@@ -1,0 +1,82 @@
+﻿@model IEnumerable<G3_PetOnlineShop.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+
+
+}
+
+<h2>Index</h2>
+@if (TempData["check"] != null) 
+{ 
+    <p class="alert alert-success" id="successMessage">@TempData["check"]</p>
+}
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateOfManufacture)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TypeID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nationID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Images)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.ProductID)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ProductName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Description)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.DateOfManufacture)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.TypeID)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.nationID)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Price)
+    </td>
+    <td>
+        <img src="~/Content/images/@item.Images" width="100px" />
+        @*@Html.DisplayFor(modelItem => item.Images)*@
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.ProductID }) |
+        @Html.ActionLink("Details", "Details", new { id = item.ProductID }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.ProductID })
+    </td>
+</tr>
+}
+
+</table>

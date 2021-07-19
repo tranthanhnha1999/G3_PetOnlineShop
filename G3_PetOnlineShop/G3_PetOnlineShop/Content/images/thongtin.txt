@@ -1,0 +1,952 @@
+1 
+mèo Ald màu Tuxedo đen trắng 3 tháng tuổi 	
+Nhà có mấy bé mèo lai( mẹ mèo Nga bố mèo lai) được 1,5 tháng rất đáng yêu, đã ăn được cơm.	
+NULL	
+2	
+ER	
+3000000
+meo-anh-long-ngan-mau-tuxedo.jpeg
+
+2
+Mèo Aln lai
+Bé cần ng nuôi hứa sẽ nghịch
+đã hơn 2 tháng (sn 10/3/2021) tiêm vaccin đầy đủ
+đi vs cát và ăn mọi thứ
+Bố aln vằn dưa tai cụp x Mẹ ald lai ta	
+NULL	
+2	
+ER
+2300000
+meo Aln.jpg
+
+3
+Mèo Nga lai
+Nhà có mấy bé mèo lai( mẹ mèo Nga bố mèo lai) được 1,5 tháng rất đáng yêu, đã ăn được cơm.
+NULL
+02
+ER
+600000
+meoNga.png
+
+4
+MÈO TAI CỤP BÉO MÚP
+Mèo scottish là một trong những giống mèo được yêu thích nhất hiện nay. Cũng là loài được lựa chọn để phối giống với nhiều loài mèo quý khác, tạo nên những chú mèo mang bộ gen lạ, độc đáo	NULL
+2
+ER
+20000000
+meotaicup.jpg
+
+5
+MÈO CHÂN NGẮN TAI CỤp Mèo Munchkin
+MÈO CHÂN NGẮN , TAI CỤP	Mèo Munchkin là một giống mèo khá mới từ Mỹ. Chính vì thế, Munchkin còn khá mới lạ ở Việt Nam. Đối với những người yêu mèo, Munchkin cat rất được yêu thích, ưa chuộng bởi 4 chân ngắn chũn chĩn với khuôn mặt tròn ngây thơ vô cùng.
+NULL
+2
+ER
+30000000	
+meochanngan.jpg
+
+6
+ĐÀN MÈO ANH LÔNG NGẮN	
+Mèo Anh lông ngắn ALN được du nhập vào Việt Nam vào khoảng những năm 2008 – 2010. Với đôi mắt to tròn màu hổ phách, thân hình mập mạp dễ thương, mèo lông ngắn Anh là giống mèo cảnh được ưa chuộng và nuôi phổ biến nhất hiện nay.	
+NULL	
+02	
+ER	
+15000000	
+meoanhlongngan.jpg
+
+7	
+MÈO SCOTTISH SILVER
+Cưng quá hu hu hu … chịu không nổi luôn thật sự ấy 
+Tai đã cụp mà chân nó còn ngắn nữa chứ, nhìn phát là chết luôn tại trận ặc ặc ặc
+Em mèo cưng về nhà với chủ mới, siêu phẩm sau này lớn lên phải ú hết nấc nha con.
+NULL	
+2	
+ER	
+20000000	
+meoscottish.jpg
+
+8
+EM MÈO TAI CỤP XINH XINH	
+Ôi dồi ôi….. yêu như này thì phải làm sao hu hu hu
+Mặt ngây thơ thế này bắn phát chết tim tuiiii
+Không cần quảng cáo gì thêm , nhìn là biết chất ^^	
+NULL
+2	
+ER	
+18000000	
+meotaicupmup.jpg
+
+9
+XÁM XANH HALERQUIN
+- Giống: Mèo Anh Lông Dài.
+
+- Màu mắt: Hổ phách.
+
+- Tuổi: 2 tháng.
+
+- Giới tính: Đực
+
+- Màu lông: Xám xanh Halerquin.
+
+- Số lượng: 1 bé.
+
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+
+- Nguồn gốc: Sinh sản tại Việt Nam.
+
+- Sức khoẻ tốt. Thích hợp làm giống.
+
+- Vacxin: 1 mũi 4 bệnh, sổ giun 2 lần.
+NULL
+2	
+ER	
+7000000	
+meolongdai.jpeg
+
+10
+LILAC HALERQUIN	
+- Giống: Mèo Anh Lông Dài.
+
+- Màu mắt: Vàng.
+
+- Tuổi: 2 tháng.
+
+- Giới tính: Cái.
+
+- Màu lông: Lilac Halerquin.
+
+- Số lượng: 1 bé.
+
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+
+- Nguồn gốc: Sinh sản tại Việt Nam.
+
+- Sức khoẻ tốt. Thích hợp làm giống.
+
+- Vacxin: 1 mũi 4 bệnh, sổ giun 3 lần.	
+NULL	
+2	
+ER	
+8000000	
+meolongdaiii.jpeg
+
+11
+XÁM XANH TAI CỤP	
+- Giống: Mèo anh lông ngắn
+
+- Màu mắt: Hổ phách.
+
+- Tuổi: 60 ngày.
+- Giới tính: Đực, Cái
+- Màu lông: Xám Xanh.
+
+- Số lượng: 2 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại TP.HCM.
+- Sức khoẻ tốt, đón bé ngay.
+- Vacxin: 1 mũi 4 bệnh, sổ giun 2 lần.
+NULL
+2
+ER
+8000000	
+meotaicupxam.jpeg
+
+11
+XÁM XANH TAI CỤP - 02	
+- Giống: Scottish (tai cụp). 
+- Màu mắt: Hổ phách.
+- Tuổi: 15 tháng.
+- Giới tính: Đực.
+- Màu lông: Xám Xanh.
+- Số lượng: 1 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn, thích hợp làm giống.
+- Nguồn gốc: Sinh sản tại TP.HCM
+- Sức khoẻ tốt, đón bé ngay.
+- Vacxin: 1 mũi 4 bệnh nhắc lại, sổ giun 1 lần nhắc lại định kì.
+NULL
+2	
+ER	
+11000000	
+meothudu.jpg
+
+12
+CHÂN NGẮN BICOLOR XÁM XANH - 01	
+- Giống: Mèo chân ngắn
+- Màu mắt: Hổ phách.
+- Tuổi: 15 tháng.
+- Giới tính: Cái.
+- Màu lông: Bicolor Xám Xanh.
+- Số lượng: 1 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn, đã sinh sản 1 lứa
+- Nguồn gốc: Sinh sản tại Đà Lạt.
+- Vacxin: 3 mũi 4 bệnh, 1 mũi dại, 1 mũi FIP, sổ giun 3 lần.
+Sức khoẻ tốt, đón bé ngay.
+NULL	
+2	
+NULL	
+30000000	
+meobicolor.jpeg
+
+13
+CHÂN NGẮN XÁM XANH - 01
+- Giống: Mèo chân ngắn
+- Màu mắt: Hổ phách.
+- Tuổi: 60 ngày.
+- Giới tính: Cái, Đực.
+- Màu lông: Xám Xanh.
+- Số lượng: 2 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại Đà Lạt.
+- Sức khoẻ tốt, đón bé ngay.
+- Vacxin: 1 mũi 4 bệnh, sổ giun 2 lần.	
+NULL	
+2	
+ER
+18000000	
+eec8e1873ed94b9e91ec3f97831c6aa1-8456.jpeg
+
+14
+MÈO XÁM XANH - 05
+- Giống: Mèo anh lông ngắn
+- Màu mắt: Hổ phách.
+- Tuổi: 60 ngày.
+- Giới tính: Cái, Đực.
+- Màu lông: Xám Xanh.
+- Số lượng: 2 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại TP.HCM.
+- Vacxin: 1 mũi 4 bệnh, sổ giun 2 lần.
+NULL	
+2	
+ER	
+8800000	
+MEOXAMXANH.jpg
+
+15
+BICOLOR XÁM XANH - 02	
+- Giống: Mèo Anh Lông Ngắn.
+
+- Màu mắt: Hổ phách.
+
+- Tuổi: 2 tháng.
+
+- Giới tính: Cái.
+
+- Màu lông: Bicolor xám xanh.
+
+- Số lượng: 2 bé.
+
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+
+- Nguồn gốc: Sinh sản tại TP.HCM
+
+- Sức khoẻ tốt. Thích hợp làm giống.
+
+- Vacxin: 1 mũi 4 bệnh, sổ giun 2 lần.	
+NULL	
+2	
+ER	
+13000000	
+z2252313919913ad1e0173644ec4dcfd1dfb80a196f992-7205.jpg
+
+16	
+MÈO LILAC - 03	
+- Giống: Mèo anh lông ngắn
+
+- Màu mắt: Hổ phách.
+
+- Tuổi: 35 ngày.
+- Giới tính: Đực, Cái
+- Màu lông: Lilac
+
+- Số lượng: 2 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại TP.HCM.
+- Sức khoẻ tốt, Thời gian bàn giao dự kiến 20-23/01/2021
+- Vacxin: 1 mũi 4 bệnh, sổ giun 2 lần.	
+NULL	
+2	
+ER	
+10000000	
+z22510903264084fce22a89f163e9194ef0e368b00d681-3267.jpg
+
+17	
+MÈO LILAC - 02	
+- Giống: Mèo anh lông ngắn
+
+- Màu mắt: Hổ phách.
+
+- Tuổi: 50 ngày.
+- Giới tính: Đực.
+- Màu lông: Lilac
+
+- Số lượng: 1 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại TP.HCM.
+- Sức khoẻ tốt, đón bé ngay.
+- Vacxin: 1 mũi 4 bệnh, sổ giun 2 lần.	
+NULL	
+2	
+ER	
+10000000	
+ae03d9a230f940e9a7d124bf692e4158-4023.jpeg
+
+18
+MÈO LILAC - 01	
+- Giống: Mèo anh lông ngắn
+
+- Màu mắt: Hổ phách.
+
+- Tuổi: 50 ngày.
+- Giới tính: Cái, Đực.
+- Màu lông: Lilac
+
+- Số lượng: 2 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại TP.HCM.
+- Sức khoẻ tốt, đón bé ngay.
+- Vacxin: 1 mũi 4 bệnh, sổ giun 2 lần.	
+NULL	
+2	
+ER	
+8000000	
+1-4109.jpg
+
+19	
+CHÂN NGẮN BICOLOR XÁM XANH - 01	
+- Giống: Mèo chân ngắn
+- Màu mắt: Hổ phách.
+- Tuổi: 15 tháng.
+- Giới tính: Cái.
+- Màu lông: Bicolor Xám Xanh.
+
+- Số lượng: 1 bé
+
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn, đã sinh sản 1 lứa
+- Nguồn gốc: Sinh sản tại Đà Lạt.
+
+- Vacxin: 3 mũi 4 bệnh, 1 mũi dại, 1 mũi FIP, sổ giun 3 lần.	
+NULL	
+2	
+ER	
+30000000	
+f5072c7165584b1ab1b2c7a62182960b-4499.jpeg
+
+20	
+XÁM XANH TAI CỤP - 01	
+- Giống: Mèo anh lông ngắn
+- Màu mắt: Hổ phách.
+- Tuổi: 60 ngày.
+- Giới tính: Đực, Cái
+- Màu lông: Xám Xanh.
+- Số lượng: 2 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại TP.HCM.
+- Sức khoẻ tốt, đón bé ngay.
+- Vacxin: 1 mũi 4 bệnh, sổ giun 2 lần.	
+NULL	
+2	
+ER
+8000000	
+f7b468dd09c24b58bcf2cde7893021ef-6049.jpeg
+
+21
+XÁM XANH - 03	
+- Giống: Mèo anh lông ngắn
+- Màu mắt: Hổ phách.
+- Tuổi: 50 ngày.
+- Giới tính: Cái.
+- Màu lông: Xám Xanh.
+- Số lượng: 2 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại TP.HCM.
+- Sức khoẻ tốt, đón bé ngay.
+- Vacxin: 1 mũi 4 bệnh, sổ giun 2 lần.	
+NULL	
+2	
+ER	
+7000000	
+4a62b0364a5549109ba20e58dfd093a0-4962.jpeg
+
+22
+XÁM XANH - 02	
+- Giống: Mèo anh lông ngắn
+- Màu mắt: Hổ phách.
+- Tuổi: 90 ngày.
+- Giới tính: Cái, Đực.
+- Màu lông: Xám Xanh.
+- Số lượng: 4 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại TP.HCM.
+- Sức khoẻ tốt, đón bé ngay.
+- Vacxin: 2 mũi 4 bệnh, sổ giun 3 lần.	
+NULL	
+2	
+ER	
+6000000	
+eba8915afb5b463abe00ba511736f661-3850.jpeg
+
+23	
+BICOLOR XÁM XANH - 01	
+- Giống: Mèo Anh Lông Ngắn.
+- Màu mắt: Hổ phách.
+- Tuổi: 4 tháng.
+- Giới tính: Cái.
+- Màu lông: Blue Bicolor.
+- Số lượng: 1 bé.
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại Việt Nam.
+- Sức khoẻ tốt. Thích hợp làm giống.
+- Vacxin: 2 mũi 4 bệnh, sổ giun 3 lần.	
+NULL	
+2	
+ER	
+16000000	
+13fc5cdca7644479bc52ba8bf050fb07-2611.jpeg
+
+24
+LILAC BICOLOR NHẬP NGA	
+- Giống: Mèo Anh Lông Ngắn.
+- Màu mắt: Hổ phách.
+- Tuổi: 2 năm
+- Giới tính: Đực.
+- Màu lông: Lilac bicolor.
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn, Sung mãn.
+- Nguồn gốc: nhập trực tiếp từ Nga - Phả đẹp lung linh.
+- Vacxin: 1 mũi nhắc lại 4 bệnh, sổ giun 2 lần.
+Sức khoẻ tốt. Thích hợp làm giống, đã có nhiều sản phẩm, đón bé ngay.	
+NULL	
+02	
+ER	
+55000000	
+e050d41c2c7841d9afc3094e3c16befa-4453.jpeg
+
+25
+ALN CHOCO BICOLOR	
+- Giống: Mèo Anh Lông Ngắn.
+- Màu mắt: Hổ phách.
+- Tuổi: 4 tháng.
+- Giới tính: Cái.
+- Màu lông: Choco Bicolor.
+- Số lượng: 1 bé.
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại Việt Nam.
+- Sức khoẻ tốt. Thích hợp làm giống.
+- Vacxin: 2 mũi 4 bệnh, sổ giun 3 lần.	
+NULL	
+02	
+ER	
+18000000	
+25-7015.jpg
+
+26
+ALN BICOLOR BLUE	
+- Giống: Mèo Anh Lông Ngắn.
+- Màu mắt: Hổ phách.
+- Tuổi: 25 ngày.
+- Giới tính: Đực.
+- Màu lông: Bicolor Blue.
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại Việt Nam.
+- Sức khoẻ tốt. Thích hợp làm giống.
+- Vacxin: 1 mũi 4 bệnh, sổ giun 2 lần.	
+NULL	
+2
+ER	
+10000000	
+78928efdd0704533b304ea0aafc9995a-7635.jpeg
+
+27
+ALN MÀU CINAMON	
+- Giống: Mèo Anh Lông Ngắn.
+- Màu mắt: Hổ phách.
+- Tuổi: 12 tháng.
+- Giới tính: Đực.
+- Màu lông: Cinnamon
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn, Sung mãn.
+- Nguồn gốc: nhập trực tiếp từ Latvia (Châu Âu) - Phả đẹp lung linh.
+- Sức khoẻ tốt. Thích hợp làm giống. Ko đụng hàng tại VN.
+- Vacxin: 1 mũi nhắc lại 4 bệnh, sổ giun 2 lần.	
+NULL	
+2	
+ER
+60000000	
+df1045e6b9174845a81eaa75f33bc98b-5980.jpeg
+
+28
+SCOTTISH (TAI CỤP)	
+- Giống: Scottish (tai cụp).
+- Tuổi: 2 tháng.
+- Giới tính: Đực.
+- Màu lông: Bi choco (có gen cin)
+- Số lượng: 1 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn, thích hợp làm giống.
+- Nguồn gốc: Sinh sản tại VN
+- Sức khoẻ tốt, đón bé ngay.
+- Vacxin: 1 mũi 4 bệnh nhắc lại, sổ giun 2 lần	
+NULL	
+02	
+ER
+18000000	
+3c27710e28d0cc8e95c1-9864.jpg
+
+29	
+XÁM XANH	
+- Giống: Mèo anh lông ngắn
+- Màu mắt: Hổ phách.
+- Tuổi: 50 ngày.
+- Giới tính: Cái, Đực.
+- Màu lông: Xám Xanh.
+- Số lượng: 3 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại TP.HCM
+- Sức khoẻ tốt, đón bé ngay.
+- Vacxin: 1 mũi 4 bệnh, sổ giun 2 lần.	
+NULL	
+2	
+ER
+6000000	
+10-1442.jpg
+
+30	
+BLUE GOLDEN	
+- Giống: Mèo anh lông ngắn
+- Màu mắt: Xanh
+- Tuổi: 8 tháng
+- Giới tính: Đực.
+- Màu lông: Blue Golden.
+- Số lượng: 1 bé
+- Ngoại hình: Đẹp, lông rất mướt, form chuẩn.
+- Nguồn gốc: Sinh sản tại TP.HCM. Bố mẹ nhập. Phả WCF.
+- Sức khoẻ tốt, đón bé ngay.
+- Vacxin: 3 mũi 4 bệnh. Sổ giun 5 lần.	
+NULL	
+2	
+ER
+20000000	
+514bcba1a63840b5a5452d81e61d44b3-9494.jpeg
+
+31
+Mèo ald màu socola 2 tháng tuổi
+bé rất nhanh nhẹn đã biết ăn và đi vệ sinh cát thuần chủng.cảm ơn chợ tốt ạ.
+NULL	
+2	
+ER
+1800000
+MEO-ALD-SOCOLA.jpg
+
+32
+Mèo ALD 2 tháng
+mèo ALD full trắng 2 tháng , đã xổ giun và biết đi vệ sinh đúg chỗ
+NULL
+2	
+ER
+2000000
+Meo-ald-trang.jpg
+
+33
+Mèo ALD 2 tháng tuổi
+Mèo anh lông dài
+2 tháng tuổi
+Màu vàng trắng
+NULL
+2	
+ER
+2500000
+ald-2tr5.jpg
+
+34
+Mèo ald đực 2 tháng tuổi
+bé đực khỏe mạnh, lanh lợi, biết đi vệ sinh thau cát, ăn khỏe
+NULL
+2	
+ER
+2300000
+ald-duc-2tr3.jpg
+
+35
+Mèo ald 2 tháng tuổi
+
+mèo ald 2 tháng tuôi
+Đã ăn cơm
+Mk để 1tr2.
+NULL
+2	
+ER
+1200000
+ald-1tr2.jpg
+
+36
+Mèo Ald trắng đực 2 tháng tuổi tìm chủ
+
+Bố ALN * Mẹ ALD
+Các bé đã biết ăn hạt, gà xé, pate các thứ, khỏe mạnh, vệ sinh thau cát
+màu trắng, đực
+Mình bao tiêm + bhsk 10 ngày
+NULL
+2	
+ER
+3000000
+ald-3tr.jpg
+
+37
+Mèo ald tai cụp 2 tháng tuổi
+Mèo aln tai cụp 2 tháng tuổi, đã tiêm ngừa...
+NULL
+2	
+ER
+3000000
+ald-tc-3tr.jpg
+
+38
+MÈO ALD 9 THÁNG TUỔI
+giới tính cái, rất ngoan ngoãn và quấn chủ, form to đẹp
+NULL
+2	
+ER
+5000000
+ald-4tt.jpg
+
+39
+Mèo ald lông dài gần 2 tháng tuổi
+cha mẹ ald thuần chủng
+mèo ăn uống khoẻ mạnh phá như giặc.
+NULL
+2	
+ER
+2200000
+ald-2tr2.jpg
+
+40
+Bán Mèo ald thuần chủng 2 tháng tuổi
+Mèo ald đực ,bé đực khỏe mạnh, lanh lợi, biết đi vệ sinh thau cát, ăn khỏe.
+NULL
+2	
+ER
+3200000
+ald-3tr2.jpg
+
+41
+mèo mắt xanh muốn tìm sen nhanh
+Bé Mèo anh lông dài trắng 2 tháng ú ụ xinh xắn
+Ăn được đủ thứ
+NULL
+2	
+ER
+3000000
+meomatxanh.jpg
+
+42
+Meo Mup
+Xinh dien dao moi anh nhin
+NULL
+2	
+VN
+500000
+meomup.jpg
+
+43
+Bé mèo Munckin Scottish giới tính cái 
+mèo Munchkin Scottish
+Giới tính cái
+Đã biết đi vệ sinh trên cát, biết ăn hạt và pate
+Đã được chích ngừa mũi 1 và sổ giun, có sổ sức khỏe đầy đủ
+Có bố nhập Nga
+NULL
+2	
+ER
+8000000
+MeoMunckin.jpg
+
+44
+Mèo anh chân ngắn giới tính cái
+Mèo anh lông ngắn
+Giới tính cái
+3 tháng tuổi
+NULL
+2	
+ER
+6500000
+meoanh-6tr5.jpg
+
+45
+Mèo Anh Chân Ngắn - Cái - Quấn Người
+Mèo Anh Chân Ngắn - Cái - Quấn Người
+Giới tính: Cái
+Biết ăn hạt và đi vệ sinh đúng chỗ.
+Giá không kèm tiêm ngừa và bảo hành sức khỏe 7 ngày.
+NULL
+2	
+ER
+7000000
+meoanh-cai-7tr.jpg
+
+46
+Mèo anh lông dài giới tính cái mặt ngố
+Mèo anh lông dài giới tính cái 2 tháng tuổi đã xổ giun và bao tiêm 1 mũi vaccine . 
+Ăn hạt pate , thịt luộc và biết đi vệ sinh chậu cát . 
+Sạch sẽ khoẻ mạnh lanh lợi và quấn chủ .
+NULL
+2	
+ER
+3800000
+meo-3tr8.jpg
+
+47
+Mèo Muchkin cái chân ngắn
+ib để biết thêm chi tiết
+NULL
+2	
+ER
+25000000
+mucjin-25tr.jpg
+
+48
+Mèo muchkin đực
+Mèo muchkin đực
+2 tháng chủi
+tiêm 1 mủi
+Sổ giun
+NULL
+2	
+ER
+9500000
+muchkin-9tr5.jpg
+
+50
+Bé mèo aln mèo đực
+mèo rất hiền quà quấn chủ .
+ngoan đep sang .
+NULL
+2	
+ER
+5000000
+aln5tr.jpg
+
+51
+Bé mèo aln đực
+Cân nặng : 4kg4 đã phối được
+mèo rất hiền quà quấn chủ .
+NULL
+2	
+ER
+5500000
+aln-duc-5tr5.jpg
+
+52
+Mèo ALN, đực, đã thiến
+tìm Sen mới cho bé mèo đực XX lông ngắn, hơn một tuổi. 
+Bé form rất to, nặng đúng 5kgs. 
+rất quấn chân người.
+thích hợp nuôi vui nhà, giải Xì chét
+NULL
+2	
+ER
+3700000
+aln-3tr7.jpg
+
+53
+Mèo ALN Golden đực
+Giới tính đực
+Ăn mạnh khoẻ
+Biết đi vệ sinh đúng chỗ.
+Đã tiêm ngừa và sổ giun đầy đủ
+Cần tìm ba mẹ yêu thương
+NULL
+2	
+ER
+4500000
+aln-golden-4tr5.jpg
+
+54
+Silver shaded tai cụp đực đã thiến
+•Giống Silver Shaded hơn 2 năm tuổi
+•Đã thiến
+•3,7kg
+•chuẩn bị tái chuẩn năm thứ 3
+NULL
+2	
+ER
+6500000
+Silver-6tr5.jpg
+
+55
+Mèo aln đực from to
+Đã xổ giun đầy đủ
+Giao bé qua tận nơi nếu cần ạ
+NULL
+2	
+ER
+3500000
+aln-duc-3tr5.jpg
+
+56
+Meo Vàng
+Bé form to, màu vàng, ăn khoẻ, đi vs đúng chỗ.
+NULL
+2	
+VN
+900000
+muc-vang-9x.jpg
+
+57
+Mèo Ald Đực Tơ Chưa Thiến
+-Bé là Anh Lông Dài thuần
+-Mặt bánh bao, lông màu cam, đuôi, lông phồng
+NULL
+2	
+ER
+5000000
+anh--5tr.jpg
+
+58
+MÈO ALN BICOLOR ĐỰC CUTE
+MÈO ALN BICOLOR ĐỰC CUTE
+Giới tính: Đực
+Biết ăn hạt và đi vệ sinh đúng chỗ khi về nhà mới.
+Sổ giun và tiêm ngừa mũi một miễn phí.
+Fix nhẹ cho sen nhiệt tình.
+NULL
+2	
+ER
+5800000
+bicolor-5tr8.jpg
+
+59
+mèo ALN đực
+bé mèo Aln đực màu đen
+Sổ giun và tiêm ngừa mũi một miễn phí.
+NULL
+2	
+ER
+4200000
+aln-4tr2.jpg
+
+60
+Mèo aln đực trắng
+bé mèo đực duy , 2 tháng tuổi, bé xổ giun rồi nha
+tìm sen gấp.
+NULL
+2	
+ER
+4600000
+aln-4tr6.jpg
+
+61
+Mèo chân ngắn, cái, 13 tháng
+Chân ngắn, giới tính cái, sinh sản 1 lứa, 13 tháng, sức khỏe tốt
+NULL
+2	
+ER
+3900000
+chan-ngan-3tr9.jpg
+
+62
+Bé Mèo Anh Lông Ngắn Đực màu trắng
+Bé Mèo Anh lông ngắn Đực màu trắng, bé được hơn 1 tuổi , bé rất dễ gần, ngoan ăn khỏe, biết ăn hạt thức ăn, cá hộp, ba tê… 
+NULL
+2	
+ER
+2900000
+anh-ngan-2tr9.jpg
+
+63
+Mèo ALN màu hồng phấn mặt bánh bao phối giống tốt
+Bé đực, 1 tuổi rưỡi, thuộc dòng mèo lông ngắn thuần, màu hồng phấn toàn thân
+Khỏe mạnh, form to, phối tốt, thích hợp nuôi làm giống
+Ham ăn, ăn hạt cat eye, canin, thịt heo gà luộc....
+Vệ sinh gọn gàng trong thau cát
+NULL
+2	
+ER
+6000000
+aln-hong-6tr.jpg
+
+64
+BÁN MÈO THẦN TÀI – TAM THỂ ĐỰC QUÍ HIẾM !
+Bé Tam thể Đực có lông Trắng – đen – Vàng nâu. Bé lai mèo Mỹ lông ngắn, rất xinh.
+NULL
+2	
+VN
+600000
+tam-the.jpg
+
+65
+Bé gái mèo Ba tư màu phấn hồng
+ mèo ba tư cái màu vàng nhạt pha phấn hồng . Mèo nhà sinh.
+Bé gái hơn 3 tháng tuổi rồi ạ. Đã xổ giun, biết vệ sinh thau cát.
+Mặt tịt xinh xắn. Lông xù tung bông.
+Ăn ngoan, nghe lời, quấn người.
+NULL
+2	
+VN
+2200000
+meo34-hong-2tr2.jpg
+
+66
+Mèo Ba Tư lai Anh Lông Dài hơn 2 tuổi nặng 3kg5
+Mèo Ba tư lai Anh lông dài, 2 tuổi rưỡi, nặng 3.5kg. Giống đực đã triệt sản => rất ngoan, đi vệ sinh đúng chỗ+ ko sợ bỏ đi.
+NULL
+2	
+VN
+4500000
+meo34-dai-4tr5.jpg
+
+67
+Bé Mèo Anh 2 tháng tuổi vàng cam dễ thương
+Bé Mèo Anh 2 tháng tuổi vàng cam dễ thương
+ăn uông khỏe mạnh năng động, đi vệ sinh đúng chỗ.
+NULL
+2	
+ER
+3000000
+anh-vang-3tr.jpg
+
+68
+Mèo Anh thuần chủng, lông ngắn và lông dài
+Mèo Anh thuần, lông ngắn và lông dài. Lông bao mượt và đẹp, được nuôi bằng thức ăn chuyên, được tắm gội bằng dầu chuyên dụng.
+NULL
+2	
+ER
+2000000
+ANH-DAI-2TR.jpg
+
+69
+Mèo adl cái lai
+bé mèo ald lông ngắn cái 2 tháng mèo lai. NGOAN NGOAN
+NULL
+2	
+VN
+800000
+ADL-LAI-8X.jpg
+
+70
+Meo mực
+Em mèo trắng đen 
+giống viêt siêu quay
+NULL
+2	
+VN
+400000
+muc-4x.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

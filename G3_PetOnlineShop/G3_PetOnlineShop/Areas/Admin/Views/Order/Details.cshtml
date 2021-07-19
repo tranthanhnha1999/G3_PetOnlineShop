@@ -1,0 +1,57 @@
+﻿@model IEnumerable<G3_PetOnlineShop.Models.OrderDetail>
+@using G3_PetOnlineShop.Models'
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+@{ 
+    var OrderItem = (Orderpro)ViewBag.od;
+}
+<p>
+    Order ID: @OrderItem.OrderID
+    <br />
+    Order Date: @OrderItem.OrderDate.Value.ToString("dd/MM/yyyy")
+    <br />
+    Customer : @OrderItem.Customer.CustomerName
+    <br />
+    Staff : @OrderItem.StaffId
+    <br />
+    Status : @OrderItem.Status
+    (0: Processing | 1: Delivery | 2: Paid)
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Quantity)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

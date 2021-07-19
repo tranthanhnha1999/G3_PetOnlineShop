@@ -1,0 +1,49 @@
+﻿@using G3_PetOnlineShop.Models;
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Shop_Pet", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    @foreach (TypeProduct item in (List<TypeProduct>)ViewBag.menu)
+                     {
+                        <li>@Html.ActionLink(item.typeName, "Index", "Home", new { id = item.typeID }, null)</li>
+                     }
+
+                    <li>@Html.ActionLink("Register", "Register", "Login")</li>
+                    <li>@Html.ActionLink("Cart", "Index", "Cart")</li>
+                    <li>@Html.ActionLink("Contaxt", "Comtact", "Home")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer style="text-align :center">
+            <p>&copy; @DateTime.Now.Year - G3_Trần Thanh Nhã - Ngọc Hùng -Quang Minh-Tô Duy</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

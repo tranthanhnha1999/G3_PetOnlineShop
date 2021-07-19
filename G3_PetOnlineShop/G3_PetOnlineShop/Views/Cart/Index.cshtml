@@ -1,0 +1,73 @@
+﻿@model IEnumerable<G3_PetOnlineShop.Models.CartItem>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+@if (Model == null)
+{
+    <div>Your cart is Empty</div>
+}
+else
+{
+    int count = 1;
+    <table class="table">
+        <tr>
+            <th>Order Number</th>
+            <th>Product Id</th>
+            <th>Images</th>
+            <th>Product Name</th>
+            <th>Price</th>
+            <th>
+                Quantity
+            </th>
+            <th>Total Price</th>
+            <th></th>
+        </tr>
+        @{double total = 0;}
+       @foreach (var item in Model) {
+    <tr>
+        <td>@count @{count++;}</td>
+        <td>@item.product.ProductID</td>
+        <td>@item.product.ProductName</td>
+        <td>
+            <img src="~/Content/images/@item.product.Images" width="100px" />
+        </td>
+        <td>
+            @{ var price = string.Format("{0:0,0 VĐN}", item.product.Price);}
+        @price
+    </td>
+    <td>
+        <b style="font-size:24px">
+            @Html.ActionLink("-","UpdateItem","Cart", new { id = item.product.ProductID, quantity = item.quantity -1 },null)
+        </b>
+        <input type="text" name="quantity" value="@item.quantity" maxlength="2" size="2" />
+        <b style="font-size:24px">
+            @Html.ActionLink("+", "UpdateItem", "Cart", new { id = item.product.ProductID, quantity = item.quantity + 1 }, null)
+        </b>
+    </td>
+    <td>
+        @{double money = (double)item.product.Price * item.quantity;}
+        @{var newmoney = string.Format("{0:0,0 VNĐ}", money);}
+        @{total = total + money;}
+        @newmoney
+    </td>
+    <td>
+        @Html.ActionLink("Delete", "Delete", new { id = item.product.ProductID });
+    </td>
+    </tr>
+    }
+        <tr class="text-right">
+            <td colspan="7">
+                @Html.ActionLink("Order", "Order", "Cart")
+                <div style="color :deeppink">
+                    @{ var totalMoney = string.Format("{0:0,0 VNĐ}", total);}
+                    Total Money : @totalMoney
+                </div>
+            </td>
+        </tr>
+
+    </table>
+}
